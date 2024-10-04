@@ -1,0 +1,13 @@
+/* static/styles.css */
+body {
+    background-color: #e0f7fa;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #00796b;
+}
+
+p {
+    color: #004d40;
+}
